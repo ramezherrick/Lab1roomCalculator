@@ -1,0 +1,13 @@
+C:\Users\herri\source\repos\lab1roomCalculator\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\herri\source\repos\lab1roomCalculator\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\herri\source\repos\lab1roomCalculator\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\herri\source\repos\lab1roomCalculator\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\herri\source\repos\lab1roomCalculator\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\herri\source\repos\lab1roomCalculator\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\herri\source\repos\lab1roomCalculator\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\lab1roomCalculator\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\lab1roomCalculator\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\herri\source\repos\lab1roomCalculator\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\lab1roomCalculator\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\herri\source\repos\lab1roomCalculator\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\herri\source\repos\lab1roomCalculator\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
